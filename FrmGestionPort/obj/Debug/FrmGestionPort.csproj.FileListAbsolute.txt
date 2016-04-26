@@ -1,0 +1,18 @@
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\bin\Debug\FrmGestionPort.exe.config
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.csprojResolveAssemblyReference.cache
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.Properties.Resources.resources
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.csproj.GenerateResource.Cache
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\bin\Debug\FrmGestionPort.exe
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\bin\Debug\FrmGestionPort.pdb
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.exe
+c:\users\raimon.d\documents\visual studio 2015\Projects\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.pdb
+C:\Users\raimon.d\Documents\Visual Studio 2015\Projects\FrmGestionPort\FrmGestionPort\obj\Debug\Port_Classe.FrmGestionPort.resources
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\bin\Debug\FrmGestionPort.exe.config
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.exe
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.pdb
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\bin\Debug\FrmGestionPort.exe
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\bin\Debug\FrmGestionPort.pdb
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.csprojResolveAssemblyReference.cache
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\obj\Debug\Port_Classe.FrmGestionPort.resources
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.Properties.Resources.resources
+C:\Users\davv\Documents\FrmGestionPort\FrmGestionPort\obj\Debug\FrmGestionPort.csproj.GenerateResource.Cache
